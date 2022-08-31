@@ -1,0 +1,44 @@
+FRONTEND
+- React JS
+- Bootstrap
+- Sass
+
+BACKEND
+- Laravel
+- Laragon
+- MySQL
+- phpMyAdmin
+
+USERS 
+================
+Student
+================
+- View Subjects
+- View Subject Teacher
+- View Subject Quiz, Assignment, Exam
+- Upload file for submission
+- View Topics
+- Notifications
+- Send Message to Teacher
+- View Message from Teacher
+- View Calendar Events
+
+
+===============
+Teacher
+===============
+- View Subjects
+- View Students per Subjects
+- Add Quiz, Assignment, Exam
+- Add Topics
+- Notifications
+- Upload Files 
+- View Student Message
+- Send Message to Students
+- View Calendar Events
+
+==============
+Admin
+==============
+- Manage Everything
+- Add/Edit/Delete Student, Teachers, Subjects, Events
