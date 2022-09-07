@@ -1,0 +1,23 @@
+{
+  "name": "wd11_project2_group3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielPaz19/Project2_Group3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielPaz19/Project2_Group3/issues"
+  },
+  "homepage": "https://github.com/DanielPaz19/Project2_Group3#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.0"
+  }
+}
