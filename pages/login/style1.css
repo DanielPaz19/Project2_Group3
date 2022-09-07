@@ -1,0 +1,46 @@
+/* body {
+    margin: 0;
+    /* margin: 0;
+    background-image: url(../../src/img/pexels-max-fischer-5212345.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* filter: blur(2px); */
+    /* filter: brightness(10%);
+    border: 1px solid #000000;
+    box-sizing: border-box; */
+    
+}
+
+.main {
+    margin: 0;
+    background-image: url(../../src/img/pexels-max-fischer-5212345.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: blur(2px);
+    /* filter: brightness(50%); */
+    border: 1px solid #000000;
+    box-sizing: border-box;
+}
+
+.background img{
+    
+}
+
+.row {
+    padding: 20% 10%;
+}
+
+.school-name {
+
+    color: #38B6FF;
+    /* color: #38B6FF;
+    font-weight: bolder;
+    font-size: 84px;
+    text-align: center; */
+    /* filter: none; */
+    /* filter: brightness(100%); */
+} */
