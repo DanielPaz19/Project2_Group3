@@ -126,6 +126,9 @@ input[type=password] {
     }
     div img {
     
-        width: 200px;
+        width: 150px;
+    }
+    body {
+        
     }
   }
